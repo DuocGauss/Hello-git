@@ -1,3 +1,3 @@
-Hola = "Hola git"
+Hola = "Nuevo hola git"
 
 print(Hola)
