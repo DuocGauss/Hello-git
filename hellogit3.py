@@ -1,1 +1,1 @@
-print("Puta de mierda terminal de git vales callampa!")
+print("Git 3 v3!")
