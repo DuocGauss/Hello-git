@@ -1,3 +1,3 @@
-Hola = "Hola nuevo Git con cambios!"
+Hola = "Hola Github!"
 
 print(Hola)
